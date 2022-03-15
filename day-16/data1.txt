@@ -1,0 +1,3 @@
+fname	lname	college
+gaurav	joshi	nirma
+rohit	chavda	LD
