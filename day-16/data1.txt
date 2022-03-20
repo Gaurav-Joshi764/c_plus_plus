@@ -1,3 +1,5 @@
-fname	lname	college
-gaurav	joshi	nirma
+This is file handeling in c++.
+
+
+nirma
 rohit	chavda	LD

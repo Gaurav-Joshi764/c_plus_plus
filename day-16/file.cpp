@@ -16,9 +16,14 @@ int main()
     }
     else
     {
-        while (!input.eof())
+        /*while (!input.eof())
         {
             input>>word;
+            count++;
+        }*/
+
+        while(getline(input, word))
+        {
             count++;
         }
         
